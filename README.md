@@ -38,5 +38,5 @@
 
 
 ### Souce Code
-[Link text Here](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/script)
-[Link text Here](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/opencv)
+[Music Player Source Code](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/script)
+[Hand Gesture Recognition Code](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/opencv)
