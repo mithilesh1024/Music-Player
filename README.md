@@ -1,7 +1,7 @@
 # Music-Player
 
 ## Home Page
-
+![Screenshot](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/Images/home.png)
 
 
 ## Media Player Functionalities
