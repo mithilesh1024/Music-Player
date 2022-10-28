@@ -3,6 +3,15 @@
 ## Home Page
 ![Screenshot](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/Images/home.png)
 
+## Playlist Menu
+![Screenshot](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/Images/menu.png)
+
+## Gesture Controls
+### Play Music
+![Screenshot](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/Images/playsong.png)
+
+### Pause Music
+![Screenshot](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/Images/pause.png)
 
 ## Media Player Functionalities
 * Play/Pause 
