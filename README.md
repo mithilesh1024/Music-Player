@@ -36,7 +36,7 @@
 * Add songs from URLs
 * Play/Pause using gesture
 
-
 ### Souce Code
 [Music Player Source Code](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/script)
+
 [Hand Gesture Recognition Code](https://github.com/mithilesh1024/Music-Player/blob/main/Assets/opencv)
